@@ -1,0 +1,10 @@
+node_modules
+bin
+obj
+.fable
+.ionide
+*.fs.js*
+public
+packages
+.fake
+paket-files
